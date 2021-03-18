@@ -1,6 +1,6 @@
 Learner Project: A JS Random Message Generator
 ===
-_For motorcyclists, this generator returns a random piece of gear to perform a thorough check on._
+_Just three silly sentences to help me learn!_
 
 How To Use?
 ---
